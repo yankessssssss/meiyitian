@@ -1,0 +1,14 @@
+.build/
+build/
+release/
+*.apk
+*.apk.idsig
+*.p12
+*.jks
+*.keystore
+*.zip
+每一天-*.html
+界面预览/
+第二版界面/
+第三版界面/
+第四版界面/
